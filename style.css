@@ -26,6 +26,14 @@ body {
   background-color: var(--color-1);
 }
 
+.card {
+  max-width: 400px;
+  width: 100%;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
