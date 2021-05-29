@@ -1,18 +1,16 @@
 /* Import Font */
 @import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
 
-/* HTML Styles */
+/* Root Styles */
 html {
   font-size: 18px;
 }
 
-/* Root Styles */
 :root {
   --color-1: hsl(185, 75%, 39%); /* Dark cyan */
   --color-2: hsl(229, 23%, 23%); /* Very dark desaturated blue */
   --color-3: hsl(227, 10%, 46%); /* Dark grayish blue */
   --color-neutral: hsl(0, 0%, 59%); /* Dark gray */
-  /* --font-default: sans-serif; */
   --font-primary: "Kumbh Sans", sans-serif;
 }
 
