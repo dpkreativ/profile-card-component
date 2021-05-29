@@ -13,7 +13,7 @@ html {
   --color-3: hsl(227, 10%, 46%); /* Dark grayish blue */
   --color-neutral: hsl(0, 0%, 59%); /* Dark gray */
   --font-default: sans-serif;
-  --font-primary: font-family: 'Kumbh Sans', sans-serif;
+  --font-primary: "Kumbh Sans", sans-serif;
 }
 
 .attribution {
