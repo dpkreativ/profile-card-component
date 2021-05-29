@@ -12,8 +12,13 @@ html {
   --color-2: hsl(229, 23%, 23%); /* Very dark desaturated blue */
   --color-3: hsl(227, 10%, 46%); /* Dark grayish blue */
   --color-neutral: hsl(0, 0%, 59%); /* Dark gray */
-  --font-default: sans-serif;
+  /* --font-default: sans-serif; */
   --font-primary: "Kumbh Sans", sans-serif;
+}
+
+/* General Styles */
+* {
+  font-family: var(--font-primary);
 }
 
 .attribution {
