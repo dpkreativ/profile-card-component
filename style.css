@@ -41,6 +41,7 @@ body {
 
 .stat {
   justify-self: center;
+  text-align: center;
 }
 
 .stat > h2 {
