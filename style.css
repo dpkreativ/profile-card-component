@@ -39,6 +39,10 @@ body {
   grid-template-columns: repeat(3, 1fr);
 }
 
+.stat {
+  justify-self: center;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
