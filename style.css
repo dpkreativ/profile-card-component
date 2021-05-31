@@ -37,6 +37,7 @@ body {
 .bottom {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  padding: 1rem 0;
 }
 
 .stat {
