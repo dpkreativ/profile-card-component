@@ -26,6 +26,11 @@ body {
   background-color: var(--color-1);
 }
 
+main {
+  height: 100vh;
+  display: grid;
+}
+
 .card {
   max-width: 400px;
   width: 100%;
