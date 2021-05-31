@@ -34,6 +34,11 @@ body {
   border-radius: 10px;
 }
 
+.bottom {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
