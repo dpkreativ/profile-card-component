@@ -41,6 +41,7 @@ body {
   height: 5rem;
   width: 5rem;
   border-radius: 50%;
+  border: 2px solid #fff;
 }
 
 .bottom {
