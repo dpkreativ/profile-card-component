@@ -47,6 +47,10 @@ body {
   font-size: 1rem;
 }
 
+.stat > p {
+  font-size: 0.6rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
