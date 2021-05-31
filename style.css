@@ -72,6 +72,11 @@ main {
   font-weight: 400;
 }
 
+.location {
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+}
+
 .bottom {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
