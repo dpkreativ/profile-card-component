@@ -45,6 +45,11 @@ main {
   background-image: url(./images/bg-pattern-card.svg);
 }
 
+.top {
+  display: grid;
+  justify-items: center;
+}
+
 .image {
   background-image: url(./images/image-victor.jpg);
   background-size: cover;
