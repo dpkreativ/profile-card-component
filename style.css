@@ -65,6 +65,11 @@ main {
   font-size: 1rem;
 }
 
+.name > span {
+  color: var(--color-3);
+  font-weight: 400;
+}
+
 .bottom {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
