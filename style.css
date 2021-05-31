@@ -43,6 +43,10 @@ body {
   justify-self: center;
 }
 
+.stat > h2 {
+  font-size: 1rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
