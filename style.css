@@ -45,7 +45,7 @@ main {
   overflow: hidden;
 }
 
-.background {
+.card-pattern {
   height: 7rem;
   background-image: url(./images/bg-pattern-card.svg);
 }
