@@ -76,6 +76,7 @@ main {
 .name > span {
   color: var(--color-3);
   font-weight: 400;
+  margin: 0 0.2rem;
 }
 
 .location {
