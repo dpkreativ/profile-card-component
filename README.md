@@ -51,8 +51,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://dpkreativ.github.io/profile-card-component/)
+- Solution URL: [Click to view](https://www.frontendmentor.io/solutions/profile-card-component-htmlcss-dhHUINgDB)
+- Live Site URL: [Click to view](https://dpkreativ.github.io/profile-card-component/)
 
 ## My process
 
