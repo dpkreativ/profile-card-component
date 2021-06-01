@@ -108,7 +108,7 @@ main {
   color: var(--color-3);
   display: inline-block;
   transform: scale(1, 0.9);
-  letter-spacing: 0.015rem;
+  letter-spacing: 0.05rem;
 }
 
 .attribution {
