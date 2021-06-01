@@ -10,7 +10,7 @@ html {
   --color-1: hsl(185, 75%, 39%); /* Dark cyan */
   --color-2: hsl(229, 23%, 23%); /* Very dark desaturated blue */
   --color-3: hsl(227, 10%, 46%); /* Dark grayish blue */
-  --color-neutral: hsl(0, 0%, 59%); /* Dark gray */
+  --color-neutral: hsla(0, 0%, 59%, 0.4); /* Dark gray */
   --font-primary: "Kumbh Sans", sans-serif;
 }
 
