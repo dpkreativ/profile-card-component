@@ -43,6 +43,7 @@ main {
   background-color: #fff;
   border-radius: 15px;
   overflow: hidden;
+  color: var(--color-2);
 }
 
 .card-pattern {
@@ -80,6 +81,7 @@ main {
 .location {
   margin-bottom: 1rem;
   font-size: 0.8rem;
+  color: var(--color-3);
 }
 
 .bottom {
