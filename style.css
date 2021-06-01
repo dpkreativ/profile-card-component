@@ -26,8 +26,9 @@ body {
   background-color: var(--color-1);
   background-image: url(./images/bg-pattern-top.svg),
     url(./images/bg-pattern-bottom.svg);
-  background-position: top -30rem left -20rem, bottom -30rem right -20rem;
+  background-position: top -40vw left -30vw, bottom -60vw right -20vw;
   background-repeat: no-repeat;
+  background-size: 80vw;
 }
 
 main {
